@@ -1,5 +1,8 @@
 using Company.Data;
 using Company.Employee.API.Mappings;
+using Company.Employee.API.Repositories;
+using Company.Employee.API.Repositories.REmployee;
+using Company.Employee.API.Repositories.RManager;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
@@ -17,17 +20,19 @@ builder.Services.AddControllers();
 // Swagger
 builder.Services.AddSwaggerGen(options =>
 {
-    options.SwaggerDoc("v1", new OpenApiInfo { Title = "Restaurant API", Version = "v1" });
+    options.SwaggerDoc("v1", new OpenApiInfo { Title = "Company API", Version = "v1" });
 });
 
 
 // DbContexts
 builder.Services.AddDbContext<EmployeeDbContext>(options => 
-    options.UseSqlServer(builder.Configuration.GetConnectionString("CompanyEmployeeConnectionString")));
+options.UseSqlServer(builder.Configuration.GetConnectionString("CompanyEmployeeConnectionString")));
 
 
 // Scopes
-
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
+builder.Services.AddScoped<IManagerRepository, SQLManagerRepository>();
 
 
 // Mapping Part

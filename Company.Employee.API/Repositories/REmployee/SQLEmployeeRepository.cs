@@ -1,15 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Company.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Company.Employee.API.Repositories.REmployee
 {
     public class SQLEmployeeRepository : Repository<Company.Model.Domain.Employee>, IEmployeeRepository
     {
-        private readonly DbContext dbContext;
         private readonly DbSet<Company.Model.Domain.Employee> dbSet;
 
-        public SQLEmployeeRepository(DbContext dbContext) : base(dbContext)
+        public SQLEmployeeRepository(EmployeeDbContext dbContext) : base(dbContext)
         {
-            this.dbContext = dbContext;
             dbSet = dbContext.Set<Company.Model.Domain.Employee>();
         }
 
@@ -21,7 +20,7 @@ namespace Company.Employee.API.Repositories.REmployee
                 .ToListAsync();
         }
 
-        public override async Task<Model.Domain.Employee?> GetByIdAsync(Guid id)
+        public override async Task<Company.Model.Domain.Employee?> GetByIdAsync(Guid id)
         {
             return await dbSet
                 .AsNoTracking()

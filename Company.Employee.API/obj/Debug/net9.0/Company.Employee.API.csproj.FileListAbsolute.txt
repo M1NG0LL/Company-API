@@ -161,3 +161,13 @@ C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\obj\Debug\ne
 C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\obj\Debug\net9.0\Company.Employee.API.pdb
 C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\obj\Debug\net9.0\Company.Employee.API.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\obj\Debug\net9.0\ref\Company.Employee.API.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\obj\Debug\net9.0\Company.Employee.API.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\RBush.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Employee.API\bin\Debug\net9.0\System.IO.Packaging.dll

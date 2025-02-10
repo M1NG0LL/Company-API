@@ -1,13 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Company.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Company.Employee.API.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
     {
-        private readonly DbContext dbContext;
+        private readonly EmployeeDbContext dbContext;
         private readonly DbSet<T> dbSet;
 
-        public Repository(DbContext dbContext)
+        public Repository(EmployeeDbContext dbContext)
         {
             this.dbContext = dbContext;
             dbSet = dbContext.Set<T>();

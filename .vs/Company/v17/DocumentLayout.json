@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.employee.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|solutionrelative:company.employee.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.employee.api\\model\\dtos\\manager\\createmanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|solutionrelative:company.employee.api\\model\\dtos\\manager\\createmanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.employee.api\\model\\dtos\\manager\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|solutionrelative:company.employee.api\\model\\dtos\\manager\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.employee.api\\model\\dtos\\manager\\updatemanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|solutionrelative:company.employee.api\\model\\dtos\\manager\\updatemanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.employee.api\\repositories\\rmanager\\sqlmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|solutionrelative:company.employee.api\\repositories\\rmanager\\sqlmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C9190D-E8AA-45B4-8948-32720462D3F9}|Company.Model\\Company.Model.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.model\\domain\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C9190D-E8AA-45B4-8948-32720462D3F9}|Company.Model\\Company.Model.csproj|solutionrelative:company.model\\domain\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|c:\\users\\dell\\onedrive\\desktop\\c# apis\\company\\company.employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F15D93-B38F-41C5-9B4B-FC14163371B5}|Company.Employee.API\\Company.Employee.API.csproj|solutionrelative:company.employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Company.Employee.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Company.Employee.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:29:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateManagerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Model\\DTOs\\Manager\\CreateManagerDto.cs",
+              "RelativeDocumentMoniker": "Company.Employee.API\\Model\\DTOs\\Manager\\CreateManagerDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Model\\DTOs\\Manager\\CreateManagerDto.cs",
+              "RelativeToolTip": "Company.Employee.API\\Model\\DTOs\\Manager\\CreateManagerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:29:31.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Model\\DTOs\\Manager\\ManagerDto.cs",
+              "RelativeDocumentMoniker": "Company.Employee.API\\Model\\DTOs\\Manager\\ManagerDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Model\\DTOs\\Manager\\ManagerDto.cs",
+              "RelativeToolTip": "Company.Employee.API\\Model\\DTOs\\Manager\\ManagerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:29:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateManagerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Model\\DTOs\\Manager\\UpdateManagerDto.cs",
+              "RelativeDocumentMoniker": "Company.Employee.API\\Model\\DTOs\\Manager\\UpdateManagerDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Model\\DTOs\\Manager\\UpdateManagerDto.cs",
+              "RelativeToolTip": "Company.Employee.API\\Model\\DTOs\\Manager\\UpdateManagerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:29:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Repositories\\RManager\\SQLManagerRepository.cs",
+              "RelativeDocumentMoniker": "Company.Employee.API\\Repositories\\RManager\\SQLManagerRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Repositories\\RManager\\SQLManagerRepository.cs",
+              "RelativeToolTip": "Company.Employee.API\\Repositories\\RManager\\SQLManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:29:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Model\\Domain\\Manager.cs",
+              "RelativeDocumentMoniker": "Company.Model\\Domain\\Manager.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Model\\Domain\\Manager.cs",
+              "RelativeToolTip": "Company.Model\\Domain\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:29:10.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Program.cs",
+              "RelativeDocumentMoniker": "Company.Employee.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\C# APIs\\Company\\Company.Employee.API\\Program.cs",
+              "RelativeToolTip": "Company.Employee.API\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:19:57.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

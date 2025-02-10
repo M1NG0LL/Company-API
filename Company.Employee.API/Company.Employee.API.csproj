@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="ClosedXML" Version="0.105.0-rc" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
@@ -26,12 +27,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Company.Data\Company.Data.csproj" />
     <ProjectReference Include="..\Company.Model\Company.Model.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Model\DTOs\" />
-    <Folder Include="Repositories\RManager\" />
   </ItemGroup>
 
 </Project>
