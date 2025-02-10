@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\bin\Debug\net9.0\Company.Data.deps.json
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\bin\Debug\net9.0\Company.Data.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\bin\Debug\net9.0\Company.Data.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\bin\Debug\net9.0\Company.Data.pdb
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\bin\Debug\net9.0\Company.Model.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\bin\Debug\net9.0\Company.Model.pdb
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company..4BD3E677.Up2Date
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\refint\Company.Data.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.pdb
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\Company.Data.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Data\obj\Debug\net9.0\ref\Company.Data.dll

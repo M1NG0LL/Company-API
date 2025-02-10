@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\bin\Debug\net9.0\Company.Model.deps.json
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\bin\Debug\net9.0\Company.Model.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\bin\Debug\net9.0\Company.Model.pdb
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\refint\Company.Model.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.pdb
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\ref\Company.Model.dll
