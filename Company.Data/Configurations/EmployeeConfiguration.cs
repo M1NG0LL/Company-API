@@ -31,6 +31,10 @@ namespace Company.Data.Configurations
                    .HasForeignKey(e => e.ManagerId)
                    .OnDelete(DeleteBehavior.Restrict);
 
+            builder.HasMany(x => x.Projects)
+                .WithMany(x => x.Employees)
+                .UsingEntity(x => x.ToTable("EmployeeProject"));
+
 
             builder.HasData(
                 new Employee

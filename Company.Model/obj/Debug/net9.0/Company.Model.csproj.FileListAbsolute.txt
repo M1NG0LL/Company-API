@@ -10,3 +10,4 @@ C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Co
 C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\refint\Company.Model.dll
 C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.pdb
 C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\ref\Company.Model.dll
+C:\Users\DELL\OneDrive\Desktop\C# APIs\Company\Company.Model\obj\Debug\net9.0\Company.Model.sourcelink.json

@@ -1,24 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Common;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Company.Model.Domain
 {
-    public abstract class BaseDomainModel
+    public class Project
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public string Email { get; set; }
-
-        public decimal? Salary { get; set; }
-        public DateTime WorkStartDate { get; set; }
-        public DateTime? WorkEndDate { get; set; }
-        public bool? IsStillWorking { get; set; }
+        public string? Description { get; set; }
 
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
+
+        public List<Employee> Employees { get; set; } = new List<Employee>();
     }
 }
